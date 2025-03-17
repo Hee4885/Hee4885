@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-
-<img src="https://img.shields.io/badge/C-12345B?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 
