@@ -6,8 +6,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=5c258d,4389a2&height=300&text=Welcome%20to%20HeeJin%20Github👻&fontSize=40&fontColor=E6E6FA&desc=Hello!&descSize=20&descAlign=70&descAlignY=65)
 
-
-                                         ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
@@ -17,12 +16,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
 </p>
 
-                                        ### 📈 GitHub Stats
-<p align = "center">
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hee4885&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hee4885&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&hide=html&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
