@@ -2,35 +2,38 @@
 
 <!--
 **Hee4885/Hee4885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=5c258d,4389a2&height=300&text=Welcome%20to%20HeeJin%20Github👻&fontSize=40&fontColor=E6E6FA&desc=Hello!&descSize=20&descAlign=70&descAlignY=65)
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+### 🚀 About Me
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+- 🔭 I’m currently working on coding problems and learning new programming languages.
+- 🌱 I’m currently learning **JavaScript**, **Node.js**, and **Data Structures**.
+- 🤔 I’m looking for help with **advanced Git usage** and **collaborative projects**.
+- 💬 Ask me about **Java**, **Python**, or anything related to **coding**!
+- 📫 How to reach me: **[Email](mailto:your.email@example.com)**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+### 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+### 📈 GitHub Stats
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hee4885&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hee4885)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡ Fun Facts
 
+- I love solving coding challenges!
+- I'm also a big fan of **open-source projects**.
+- In my free time, I enjoy **gaming** and **learning new things**.
 
+---
+<p align="center">Made with ❤️ by HeeJin 👻</p>
