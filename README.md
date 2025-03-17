@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=5c258d,4389a2&height=300&text=Welcome%20to%20HeeJin%20Github👻&fontSize=40&fontColor=#c084fc&desc=Hello!&descSize=20&descAlign=100&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=5c258d,4389a2&height=300&text=Welcome%20to%20HeeJin%20Github👻&fontSize=40&fontColor=#ff6f61&desc=Hello!&descSize=20&descAlign=100&descAlignY=65)
 
