@@ -36,4 +36,4 @@
 </p>
 
 ---
-<p align="center">Made with ❤️ by HeeJin 👻</p>
+<p align="center">Made with by HeeJin 👻</p>
