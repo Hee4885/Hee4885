@@ -13,6 +13,7 @@
 src="https://render.gitanimals.org/farms/Hee4885"
 width="600"
 height="300"
+align="center"
 />
 </a>
 
