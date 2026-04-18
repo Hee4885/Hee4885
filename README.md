@@ -15,7 +15,7 @@ width="600"
 height="300"
 />
 </a>
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2> <br/>
 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
