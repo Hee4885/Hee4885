@@ -8,14 +8,15 @@
 
 
 
+<p align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hee4885&utm_content=farm">
 <img
-src="https://render.gitanimals.org/farms/Hee4885"
-width="600"
-height="300"
-align="center"
+  src="https://render.gitanimals.org/farms/Hee4885"
+  width="600"
+  height="300"
 />
 </a>
+</p>
 
 <h2>🛠️ Tech Stack</h2> <br/>
 💻 Languages
