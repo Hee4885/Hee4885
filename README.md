@@ -48,10 +48,11 @@
 </p>
 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hee4885&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hee4885&show_icons=true&theme=radical&count_private=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&hide=html&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&theme=radical" />
 </p>
 
 ---
