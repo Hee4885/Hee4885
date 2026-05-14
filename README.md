@@ -45,12 +45,23 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-  
+</p>
+
 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hee4885&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical" alt="GitHub Stats"/>
+  
+[![Hee4885's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hee4885&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/Hee4885/github-readme-stats)
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&hide=html&theme=radical" alt="Top Languages"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&theme=radical)](https://github.com/Hee4885/github-readme-stats)
+
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical" alt="Top Languages"/>
 </p>
