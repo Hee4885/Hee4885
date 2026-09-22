@@ -57,14 +57,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hee4885&hide=stars,contribs&count_private=true&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Hee4885&hide=stars,contribs&show_icons=true&theme=radical"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hee4885&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hee4885&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </p>
