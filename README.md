@@ -58,14 +58,14 @@
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=Hee4885&show_icons=true&theme=radical"
-    height="170"
     alt="GitHub Stats"
   />
-  
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hee4885&layout=compact&theme=radical&langs_count=8"
-    height="170"
-    alt="Top Languages"
+    alt="Most Used Languages"
   />
 </p>
 
